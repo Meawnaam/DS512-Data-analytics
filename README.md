@@ -102,6 +102,7 @@ This indicates that **age is a meaningful factor** contributing to the likelihoo
 |--------------------|-----------------|
 | No Risk            | 49              |
 | Risk               | 54              |
+<img width="1019" height="287" alt="image" src="https://github.com/user-attachments/assets/f01442e2-17e0-4f90-af7a-81256deb4ff0" />
 
 ### 📝 Interpretation  
 - **Age shows a direct and notable correlation** with CHD risk.  
